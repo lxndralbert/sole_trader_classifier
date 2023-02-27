@@ -1,0 +1,17 @@
+# Compiled Python files
+*.pyc
+
+# Virtual environment
+venv/
+
+# Log files
+*.log
+
+# Data files
+data/
+
+# Test data files
+test_data.csv
+
+# VS Code settings
+.vscode/

@@ -1,7 +1,7 @@
-transaction_history,business_indicators,contextual_info
-1000,1,"{'age': 35, 'gender': 'male', 'income': 50000, 'location': 'New York'}"
-2000,0,"{'age': 45, 'gender': 'female', 'income': 60000, 'location': 'Los Angeles'}"
-500,1,"{'age': 25, 'gender': 'male', 'income': 30000, 'location': 'Chicago'}"
-3000,1,"{'age': 50, 'gender': 'male', 'income': 80000, 'location': 'San Francisco'}"
-1500,0,"{'age': 30, 'gender': 'female', 'income': 40000, 'location': 'Miami'}"
-5000,1,"{'age': 40, 'gender': 'male', 'income': 90000, 'location': 'Seattle'}"
+transaction_history,business_indicators,contextual_info,is_sole_trader
+1000,1,"{'age': 35, 'gender': 'male', 'income': 50000, 'location': 'New York'}",1
+2000,0,"{'age': 45, 'gender': 'female', 'income': 60000, 'location': 'Los Angeles'}",0
+500,1,"{'age': 25, 'gender': 'male', 'income': 30000, 'location': 'Chicago'}",1
+3000,1,"{'age': 50, 'gender': 'male', 'income': 80000, 'location': 'San Francisco'}",0
+1500,0,"{'age': 30, 'gender': 'female', 'income': 40000, 'location': 'Miami'}",1
+5000,1,"{'age': 40, 'gender': 'male', 'income': 90000, 'location': 'Seattle'}",0

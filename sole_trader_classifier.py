@@ -5,7 +5,7 @@ import torch.optim as optim
 from sklearn.preprocessing import LabelEncoder, OneHotEncoder
 
 # Load the customer data
-df = pd.read_csv("customer_data.csv")
+df = pd.read_csv("examples/customer_data.csv")
 
 # Preprocess the data
 le = LabelEncoder()
